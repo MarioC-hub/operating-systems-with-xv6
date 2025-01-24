@@ -1,3 +1,5 @@
+[xv6 repo with edits](https://github.com/MarioC-hub/xv6-riscv)
+
 This is intended to be a self-paced course that teaches enough operating
 systems fundamentals for you to decide if you like operating systems or not :)
 
